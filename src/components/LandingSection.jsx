@@ -28,7 +28,7 @@ const LandingSection = ({ guestName, handleScroll }) => {
         <h2 className="text-[#444444] m-2 animate-fade-in-up charm-bold">
           THE WEDDING OF
         </h2>
-        <h1 className="text-4xl md:text-5xl tangerine-bold mb-4 animate-fade-in-scale animate-letter-spacing text-[#3A3A3A]">
+        <h1 className="text-6xl md:text-5xl tangerine-bold mb-4 animate-fade-in-scale animate-letter-spacing text-[#3A3A3A]">
           AULYA <br />&<br /> DYLAN
         </h1>
         <p
