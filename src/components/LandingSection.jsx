@@ -38,7 +38,7 @@ const LandingSection = ({ guestName, handleScroll }) => {
           Kepada Yth.
           <br />
           <span className="tangerine-bold text-[#444444] text-2xl">
-            {guestName}
+            Gilang
           </span>
         </p>
         <p
